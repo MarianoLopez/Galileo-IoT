@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-test",
+  "version": "0.0.0",
+  "description": "integration node.js & rabbitmq",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node.js",
+    "rabbitmq",
+    "galileo"
+  ],
+  "author": "Lopez Mariano",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
